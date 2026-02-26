@@ -28,7 +28,7 @@ The tutorials are supposed to be followed with the following structure. You can 
 
     a. Modify static data and parameters of the elements (complete) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/OpenSynth-energy/D-GITT/HEAD?urlpath=%2Fdoc%2Ftree%2FDocumentation%2FData_Modification%2Fmodify_data.ipynb)
    
-    b. Add injection time series (TO-DO) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/OpenSynth-energy/D-GITT/HEAD?urlpath=%2Fdoc%2Ftree%2FDocumentation%2FData_Modification%2Fadd_injections_time_series.ipynb)
+    b. Add injection time series (CHECK) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/OpenSynth-energy/D-GITT/HEAD?urlpath=%2Fdoc%2Ftree%2FDocumentation%2FData_Modification%2Fadd_injections_time_series.ipynb)
 
 4. Voltage level topology
 
