@@ -10,7 +10,7 @@ The tutorials are supposed to be followed with the following structure. You can 
 
 1. Data description
 
-    a. Introduction (complete) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/OpenSynth-energy/D-GITT/main?urlpath=%2Fdoc%2Ftree%2FDocumentation%2FData_Description%2Fdataset_description.ipynb)
+    a. Introduction (complete) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/eRoots-Analytics/CRESYM_DGITT/main?urlpath=%2Fdoc%2Ftree%2FDocumentation%2FData_Description%2Fdataset_description.ipynb)
    
     b. ID Inconsistency over time (complete) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/OpenSynth-energy/D-GITT/main?urlpath=%2Fdoc%2Ftree%2FDocumentation%2FData_Description%2Fid_inconsistency.ipynb)
 
@@ -28,7 +28,7 @@ The tutorials are supposed to be followed with the following structure. You can 
 
     a. Modify static data and parameters of the elements (complete) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/OpenSynth-energy/D-GITT/HEAD?urlpath=%2Fdoc%2Ftree%2FDocumentation%2FData_Modification%2Fmodify_data.ipynb)
    
-    b. Add injection time series (CHECK) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/OpenSynth-energy/D-GITT/HEAD?urlpath=%2Fdoc%2Ftree%2FDocumentation%2FData_Modification%2Fadd_injections_time_series.ipynb)
+    b. Add injection time series (complete) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/OpenSynth-energy/D-GITT/HEAD?urlpath=%2Fdoc%2Ftree%2FDocumentation%2FData_Modification%2Fadd_injections_time_series.ipynb)
 
 4. Voltage level topology
 
@@ -36,9 +36,9 @@ The tutorials are supposed to be followed with the following structure. You can 
 
 5. Execution analysis
     
-    a. Launching a powerflow (CHECK) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/OpenSynth-energy/D-GITT/HEAD?urlpath=%2Fdoc%2Ftree%2FDocumentation%2FExecution_Analysis%2Fpower_flow.ipynb)
+    a. Launching a powerflow (CHECK) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cmjoshua01/D-GITT_josh/HEAD?urlpath=%2Fdoc%2Ftree%2FDocumentation%2FExecution_Analysis%2Fpower_flow.ipynb) 
    
-    b. Security-constrained analysis (CHECK) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/OpenSynth-energy/D-GITT/HEAD?urlpath=%2Fdoc%2Ftree%2FDocumentation%2FExecution_Analysis%2Fsecurity_constrained_analysis.ipynb)
+    b. Security-constrained analysis (CHECK) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cmjoshua01/D-GITT_josh/HEAD?urlpath=%2Fdoc%2Ftree%2FDocumentation%2FExecution_Analysis%2Fsecurity_constrained_analysis.ipynb)
 
 
 ## How to locally run the notebooks?
