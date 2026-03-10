@@ -10,29 +10,29 @@ The tutorials are supposed to be followed with the following structure. You can 
 
 1. Data description
 
-    a. Introduction (complete) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/eRoots-Analytics/CRESYM_DGITT/main?urlpath=%2Fdoc%2Ftree%2FDocumentation%2FData_Description%2Fdataset_description.ipynb)
+    a. Introduction (complete) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cmjoshua01/D-GITT_josh/main?urlpath=%2Fdoc%2Ftree%2FDocumentation%2FData_Description%2Fdataset_description.ipynb)
    
-    b. ID Inconsistency over time (complete) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/OpenSynth-energy/D-GITT/main?urlpath=%2Fdoc%2Ftree%2FDocumentation%2FData_Description%2Fid_inconsistency.ipynb)
+    b. ID Inconsistency over time (complete) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cmjoshua01/D-GITT_josh/main?urlpath=%2Fdoc%2Ftree%2FDocumentation%2FData_Description%2Fid_inconsistency.ipynb)
 
-    c. Operational limits (complete) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/OpenSynth-energy/D-GITT/HEAD?urlpath=%2Fdoc%2Ftree%2FDocumentation%2FData_Description%2Foperational_limits.ipynb)
+    c. Operational limits (complete) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cmjoshua01/D-GITT_josh/HEAD?urlpath=%2Fdoc%2Ftree%2FDocumentation%2FData_Description%2Foperational_limits.ipynb)
    
-    d. Shunt blocks (complete) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/OpenSynth-energy/D-GITT/HEAD?urlpath=%2Fdoc%2Ftree%2FDocumentation%2FData_Description%2Fshunt_blocks.ipynb)
+    d. Shunt blocks (complete) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cmjoshua01/D-GITT_josh/HEAD?urlpath=%2Fdoc%2Ftree%2FDocumentation%2FData_Description%2Fshunt_blocks.ipynb)
    
-    e. Other elements references (complete)[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/OpenSynth-energy/D-GITT/HEAD?urlpath=%2Fdoc%2Ftree%2FDocumentation%2FData_Description%2Fother_elements.ipynb)
+    e. Other elements references (complete)[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cmjoshua01/D-GITT_josh/HEAD?urlpath=%2Fdoc%2Ftree%2FDocumentation%2FData_Description%2Fother_elements.ipynb)
 
 2. Data format conversion
    
-    a. From XIIDM to other formats and viceversa (complete) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/OpenSynth-energy/D-GITT/HEAD?urlpath=%2Fdoc%2Ftree%2FDocumentation%2FData_Format_Conversion%2Fdata_format_conversion.ipynb)
+    a. From XIIDM to other formats and viceversa (complete) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cmjoshua01/D-GITT_josh/HEAD?urlpath=%2Fdoc%2Ftree%2FDocumentation%2FData_Format_Conversion%2Fdata_format_conversion.ipynb)
 
 3. Data modification
 
-    a. Modify static data and parameters of the elements (complete) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/OpenSynth-energy/D-GITT/HEAD?urlpath=%2Fdoc%2Ftree%2FDocumentation%2FData_Modification%2Fmodify_data.ipynb)
+    a. Modify static data and parameters of the elements (complete) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cmjoshua01/D-GITT_josh/HEAD?urlpath=%2Fdoc%2Ftree%2FDocumentation%2FData_Modification%2Fmodify_data.ipynb)
    
-    b. Add injection time series (complete) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/OpenSynth-energy/D-GITT/HEAD?urlpath=%2Fdoc%2Ftree%2FDocumentation%2FData_Modification%2Fadd_injections_time_series.ipynb)
+    b. Add injection time series (complete) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cmjoshua01/D-GITT_josh/HEAD?urlpath=%2Fdoc%2Ftree%2FDocumentation%2FData_Modification%2Fadd_injections_time_series.ipynb)
 
 4. Voltage level topology
 
-    a. Bus-breaker and node-breaker topologies (complete) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/OpenSynth-energy/D-GITT/HEAD?urlpath=%2Fdoc%2Ftree%2FDocumentation%2FVoltage_Level_Topologies%2Fnodebreaker_busbranch_topologies.ipynb)
+    a. Bus-breaker and node-breaker topologies (complete) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cmjoshua01/D-GITT_josh/HEAD?urlpath=%2Fdoc%2Ftree%2FDocumentation%2FVoltage_Level_Topologies%2Fnodebreaker_busbranch_topologies.ipynb)
 
 5. Execution analysis
     
